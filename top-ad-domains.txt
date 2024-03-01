@@ -6,6 +6,7 @@
 4dex.io
 a-mo.net
 abtasty.com
+acuityplatform.com
 ad-delivery.net
 ad-score.com
 ad.gt
@@ -13,6 +14,7 @@ addthis.com
 adentifi.com
 adform.net
 adgrx.com
+adingo.jp
 adition.com
 adjust.com
 adkernel.com
@@ -32,7 +34,6 @@ adsrvr.org
 adswizz.com
 adtelligent.com
 adtng.com
-advertising.com
 agkn.com
 akstat.io
 alphonso.tv
@@ -46,6 +47,7 @@ appier.net
 applovin.com
 applvn.com
 appsflyer.com
+audrte.com
 bfmio.com
 bidr.io
 bidswitch.net
@@ -100,12 +102,14 @@ forter.com
 fullstory.com
 fwmrm.net
 gameanalytics.com
+geoedge.be
 go-mpulse.net
 google-analytics.com
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
+got-to-be.net
 gumgum.com
 gvt2.com
 heapanalytics.com
@@ -166,7 +170,6 @@ postrelease.com
 presage.io
 pubmatic.com
 pubnative.net
-pushimg.com
 quantcount.com
 quantserve.com
 quantummetric.com
@@ -190,7 +193,6 @@ segment.com
 segment.io
 semasio.net
 sentry.io
-servenobid.com
 serving-sys.com
 shalltry.com
 sharethrough.com
@@ -220,7 +222,6 @@ tealiumiq.com
 technoratimedia.com
 tiqcdn.com
 toponadss.com
-trafficfactory.biz
 trafficjunky.net
 treasuredata.com
 tremorhub.com
@@ -240,3 +241,4 @@ yandexadexchange.net
 yellowblue.io
 yieldmo.com
 zemanta.com
+zeotap.com
