@@ -48,8 +48,8 @@ appboy.com
 appier.net
 applovin.com
 applvn.com
-appnext.com
 appsflyer.com
+betweendigital.com
 bfmio.com
 bidr.io
 bidswitch.net
@@ -63,7 +63,6 @@ btloader.com
 bttrack.com
 casalemedia.com
 cdn.house
-cdn4image.com
 cedexis-radar.net
 cedexis.com
 chartbeat.com
@@ -71,9 +70,7 @@ chartbeat.net
 chartboost.com
 clarity.ms
 clevertap-prod.com
-clmbtech.com
 cloudflareinsights.com
-colossusssp.com
 company-target.com
 connatix.com
 contentsquare.net
@@ -81,7 +78,6 @@ contextweb.com
 conviva.com
 cootlogix.com
 crashlytics.com
-crazyegg.com
 creativecdn.com
 criteo.com
 criteo.net
@@ -94,12 +90,12 @@ doubleclick.net
 doubleverify.com
 dtscout.com
 e-planning.net
+e-volution.ai
 emxdgt.com
 eu-1-id5-sync.com
 eum-appdynamics.com
 everesttech.net
 evergage.com
-evidon.com
 exelator.com
 eyeota.net
 fastclick.net
@@ -149,12 +145,10 @@ mediago.io
 mediavine.com
 mfadsrvr.com
 mgid.com
-mintegral.net
 mixpanel.com
 mmstat.com
 mnaspm.com
 moatads.com
-moatpixel.com
 mobilefuse.com
 mookie1.com
 mparticle.com
@@ -163,6 +157,7 @@ nextmillmedia.com
 nr-data.net
 omnitagjs.com
 omtrdc.net
+onaudience.com
 onetag-sys.com
 online-metrix.net
 openx.net
@@ -173,6 +168,7 @@ pangle.io
 parsely.com
 permutive.app
 permutive.com
+polyfill.io
 postrelease.com
 presage.io
 pubmatic.com
@@ -232,7 +228,6 @@ technoratimedia.com
 tiqcdn.com
 toponadss.com
 trafficjunky.net
-treasuredata.com
 tremorhub.com
 tribalfusion.com
 tsyndicate.com
@@ -249,5 +244,7 @@ wpadmngr.com
 yandexadexchange.net
 yellowblue.io
 yieldmo.com
+youboranqs01.com
 zemanta.com
 zeotap.com
+zog.link
