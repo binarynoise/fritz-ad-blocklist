@@ -5,7 +5,6 @@
 3lift.com
 4dex.io
 a-mo.net
-acuityplatform.com
 ad-delivery.net
 ad-score.com
 ad.gt
@@ -14,21 +13,18 @@ adentifi.com
 adform.net
 adgrx.com
 adingo.jp
-adition.com
 adjust.com
 adkernel.com
 admanmedia.com
 adnxs-simple.com
 adnxs.com
 adnxs.net
-adotmob.com
 adroll.com
 adrta.com
 ads-twitter.com
 adsafeprotected.com
 adscale.de
 adsco.re
-adsensecustomsearchads.com
 adsmoloco.com
 adsrvr.org
 adswizz.com
@@ -49,7 +45,6 @@ appier.net
 applovin.com
 applvn.com
 appsflyer.com
-betweendigital.com
 bfmio.com
 bidr.io
 bidswitch.net
@@ -90,7 +85,6 @@ doubleclick.net
 doubleverify.com
 dtscout.com
 e-planning.net
-e-volution.ai
 emxdgt.com
 eu-1-id5-sync.com
 eum-appdynamics.com
@@ -100,6 +94,7 @@ exelator.com
 eyeota.net
 fastclick.net
 flashtalking.com
+flat-ads.com
 flurry.com
 footprintdns.com
 forter.com
@@ -120,6 +115,7 @@ gvt2.com
 hotjar.com
 hotjar.io
 id5-sync.com
+im-apps.net
 imrworldwide.com
 indexww.com
 inmobi.com
@@ -129,7 +125,6 @@ innovid.com
 intentiq.com
 ipredictive.com
 jwpltx.com
-kampyle.com
 kargo.com
 kueezrtb.com
 liadm.com
@@ -145,6 +140,7 @@ mediago.io
 mediavine.com
 mfadsrvr.com
 mgid.com
+mintegral.net
 mixpanel.com
 mmstat.com
 mnaspm.com
@@ -157,7 +153,6 @@ nextmillmedia.com
 nr-data.net
 omnitagjs.com
 omtrdc.net
-onaudience.com
 onetag-sys.com
 online-metrix.net
 openx.net
@@ -168,7 +163,6 @@ pangle.io
 parsely.com
 permutive.app
 permutive.com
-polyfill.io
 postrelease.com
 presage.io
 pubmatic.com
@@ -182,7 +176,6 @@ rayjump.com
 revcontent.com
 rfihub.com
 richaudience.com
-rkdms.com
 rlcdn.com
 rqmob.com
 rqtrk.eu
@@ -218,7 +211,6 @@ startappservice.com
 stickyadstv.com
 stripchat.com
 supersonicads.com
-swrve.com
 taboola.com
 tapad.com
 tapjoy.com
@@ -227,6 +219,7 @@ tealiumiq.com
 technoratimedia.com
 tiqcdn.com
 toponadss.com
+tradplusad.com
 trafficjunky.net
 tremorhub.com
 tribalfusion.com
