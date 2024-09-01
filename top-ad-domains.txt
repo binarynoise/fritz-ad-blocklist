@@ -13,12 +13,14 @@ adentifi.com
 adform.net
 adgrx.com
 adingo.jp
+adition.com
 adjust.com
 adkernel.com
 admanmedia.com
 adnxs-simple.com
 adnxs.com
 adnxs.net
+adriver.ru
 adroll.com
 adrta.com
 ads-twitter.com
@@ -30,6 +32,7 @@ adsrvr.org
 adswizz.com
 adtelligent.com
 adtng.com
+adtrafficquality.google
 agkn.com
 akstat.io
 alphonso.tv
@@ -44,7 +47,9 @@ appboy.com
 appier.net
 applovin.com
 applvn.com
+appnext.com
 appsflyer.com
+betweendigital.com
 bfmio.com
 bidr.io
 bidswitch.net
@@ -94,7 +99,6 @@ exelator.com
 eyeota.net
 fastclick.net
 flashtalking.com
-flat-ads.com
 flurry.com
 footprintdns.com
 forter.com
@@ -131,7 +135,6 @@ liadm.com
 liftoff-creatives.io
 liftoff.io
 lijit.com
-litix.io
 loopme.me
 magsrv.com
 mathtag.com
@@ -140,7 +143,6 @@ mediago.io
 mediavine.com
 mfadsrvr.com
 mgid.com
-mintegral.net
 mixpanel.com
 mmstat.com
 mnaspm.com
@@ -167,7 +169,6 @@ postrelease.com
 presage.io
 pubmatic.com
 pubnative.net
-pushimg.com
 quantcount.com
 quantserve.com
 quantummetric.com
@@ -180,7 +181,6 @@ rlcdn.com
 rqmob.com
 rqtrk.eu
 rubiconproject.com
-s-onetag.com
 samba.tv
 samsungacr.com
 samsungads.com
@@ -240,4 +240,3 @@ yieldmo.com
 youboranqs01.com
 zemanta.com
 zeotap.com
-zog.link
