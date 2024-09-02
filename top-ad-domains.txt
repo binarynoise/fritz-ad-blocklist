@@ -34,7 +34,6 @@ adtelligent.com
 adtng.com
 adtrafficquality.google
 agkn.com
-akstat.io
 alphonso.tv
 amazon-adsystem.com
 amplitude.com
@@ -49,7 +48,6 @@ applovin.com
 applvn.com
 appnext.com
 appsflyer.com
-betweendigital.com
 bfmio.com
 bidr.io
 bidswitch.net
@@ -88,7 +86,6 @@ demdex.net
 dotomi.com
 doubleclick.net
 doubleverify.com
-dtscout.com
 e-planning.net
 emxdgt.com
 eu-1-id5-sync.com
