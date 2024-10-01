@@ -5,6 +5,7 @@
 3lift.com
 4dex.io
 a-mo.net
+acuityplatform.com
 ad-delivery.net
 ad-score.com
 ad.gt
@@ -32,7 +33,6 @@ adsrvr.org
 adswizz.com
 adtelligent.com
 adtng.com
-adtrafficquality.google
 agkn.com
 alphonso.tv
 amazon-adsystem.com
@@ -48,6 +48,7 @@ applovin.com
 applvn.com
 appnext.com
 appsflyer.com
+betweendigital.com
 bfmio.com
 bidr.io
 bidswitch.net
@@ -76,6 +77,7 @@ contextweb.com
 conviva.com
 cootlogix.com
 crashlytics.com
+crazyegg.com
 creativecdn.com
 criteo.com
 criteo.net
@@ -86,12 +88,14 @@ demdex.net
 dotomi.com
 doubleclick.net
 doubleverify.com
+dtscout.com
 e-planning.net
 emxdgt.com
 eu-1-id5-sync.com
 eum-appdynamics.com
 everesttech.net
 evergage.com
+evidon.com
 exelator.com
 eyeota.net
 fastclick.net
@@ -132,6 +136,7 @@ liadm.com
 liftoff-creatives.io
 liftoff.io
 lijit.com
+litix.io
 loopme.me
 magsrv.com
 mathtag.com
@@ -144,7 +149,6 @@ mixpanel.com
 mmstat.com
 mnaspm.com
 moatads.com
-mobilefuse.com
 mookie1.com
 mparticle.com
 mtgglobals.com
@@ -172,10 +176,11 @@ quantummetric.com
 ravm.tv
 rayjump.com
 revcontent.com
+rezync.com
 rfihub.com
 richaudience.com
+rkdms.com
 rlcdn.com
-rqmob.com
 rqtrk.eu
 rubiconproject.com
 samba.tv
@@ -208,6 +213,7 @@ startappservice.com
 stickyadstv.com
 stripchat.com
 supersonicads.com
+syndicatedsearch.goog
 taboola.com
 tapad.com
 tapjoy.com
