@@ -5,11 +5,9 @@
 3lift.com
 4dex.io
 a-mo.net
-acuityplatform.com
 ad-delivery.net
 ad-score.com
 ad.gt
-addthis.com
 adentifi.com
 adform.net
 adgrx.com
@@ -33,6 +31,7 @@ adsrvr.org
 adswizz.com
 adtelligent.com
 adtng.com
+adtrafficquality.google
 agkn.com
 alphonso.tv
 amazon-adsystem.com
@@ -42,7 +41,6 @@ aniview.com
 anythinktech.com
 app-analytics-services.com
 app-measurement.com
-appboy.com
 appier.net
 applovin.com
 applvn.com
@@ -89,13 +87,13 @@ dotomi.com
 doubleclick.net
 doubleverify.com
 dtscout.com
+dutils.com
 e-planning.net
 emxdgt.com
 eu-1-id5-sync.com
 eum-appdynamics.com
 everesttech.net
 evergage.com
-evidon.com
 exelator.com
 eyeota.net
 fastclick.net
@@ -114,7 +112,6 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-got-to-be.net
 gumgum.com
 gvt2.com
 hotjar.com
@@ -150,6 +147,7 @@ mmstat.com
 mnaspm.com
 moatads.com
 mookie1.com
+mosspf.com
 mparticle.com
 mtgglobals.com
 nextmillmedia.com
@@ -175,13 +173,9 @@ quantserve.com
 quantummetric.com
 ravm.tv
 rayjump.com
-revcontent.com
-rezync.com
 rfihub.com
 richaudience.com
-rkdms.com
 rlcdn.com
-rqtrk.eu
 rubiconproject.com
 samba.tv
 samsungacr.com
@@ -192,8 +186,8 @@ script.ac
 seedtag.com
 segment.com
 segment.io
-semasio.net
 sentry.io
+servenobid.com
 serving-sys.com
 shalltry.com
 sharethrough.com
