@@ -5,6 +5,7 @@
 3lift.com
 4dex.io
 a-mo.net
+acuityplatform.com
 ad-delivery.net
 ad-score.com
 ad.gt
@@ -18,7 +19,6 @@ adkernel.com
 admanmedia.com
 adnxs-simple.com
 adnxs.com
-adnxs.net
 adriver.ru
 adroll.com
 adrta.com
@@ -33,6 +33,7 @@ adtelligent.com
 adtng.com
 adtrafficquality.google
 agkn.com
+akstat.io
 alphonso.tv
 amazon-adsystem.com
 amplitude.com
@@ -44,7 +45,6 @@ app-measurement.com
 appier.net
 applovin.com
 applvn.com
-appnext.com
 appsflyer.com
 betweendigital.com
 bfmio.com
@@ -59,7 +59,6 @@ browser-intake-datadoghq.com
 btloader.com
 bttrack.com
 casalemedia.com
-cdn.house
 cedexis-radar.net
 cedexis.com
 chartbeat.com
@@ -74,6 +73,7 @@ contentsquare.net
 contextweb.com
 conviva.com
 cootlogix.com
+cquotient.com
 crashlytics.com
 crazyegg.com
 creativecdn.com
@@ -117,9 +117,9 @@ gvt2.com
 hotjar.com
 hotjar.io
 id5-sync.com
-im-apps.net
 imrworldwide.com
 indexww.com
+ingage.tech
 inmobi.com
 inmobicdn.net
 inner-active.mobi
@@ -144,7 +144,6 @@ mfadsrvr.com
 mgid.com
 mixpanel.com
 mmstat.com
-mnaspm.com
 moatads.com
 mookie1.com
 mosspf.com
@@ -166,6 +165,7 @@ permutive.app
 permutive.com
 postrelease.com
 presage.io
+prodregistryv2.org
 pubmatic.com
 pubnative.net
 quantcount.com
@@ -173,13 +173,15 @@ quantserve.com
 quantummetric.com
 ravm.tv
 rayjump.com
+revcontent.com
 rfihub.com
 richaudience.com
 rlcdn.com
+rmzsglng.com
+rtmark.net
 rubiconproject.com
 samba.tv
 samsungacr.com
-samsungads.com
 sc-static.net
 scorecardresearch.com
 script.ac
@@ -207,21 +209,17 @@ startappservice.com
 stickyadstv.com
 stripchat.com
 supersonicads.com
-syndicatedsearch.goog
 taboola.com
 tapad.com
 tapjoy.com
 teads.tv
 tealiumiq.com
-technoratimedia.com
 tiqcdn.com
-toponadss.com
 tradplusad.com
 trafficjunky.net
 tremorhub.com
 tribalfusion.com
 tsyndicate.com
-tubecup.net
 turn.com
 tynt.com
 undertone.com
