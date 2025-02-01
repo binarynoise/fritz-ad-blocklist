@@ -55,6 +55,7 @@ bttrack.com
 casalemedia.com
 cdn.house
 cedexis-radar.net
+cedexis.com
 chartbeat.com
 chartbeat.net
 chartboost.com
@@ -84,14 +85,17 @@ dutils.com
 e-planning.net
 emxdgt.com
 eu-1-id5-sync.com
+eum-appdynamics.com
 everesttech.net
 evergage.com
 exelator.com
 eyeota.net
+fastclick.net
 flashtalking.com
 flurry.com
 footprintdns.com
 forter.com
+fullstory.com
 fwmrm.net
 fyber.com
 gameanalytics.com
@@ -104,10 +108,10 @@ googletagmanager.com
 googletagservices.com
 gumgum.com
 gvt2.com
-histats.com
 hotjar.com
+hotjar.io
 id5-sync.com
-imkirh.com
+im-apps.net
 imrworldwide.com
 indexww.com
 ingage.tech
@@ -121,7 +125,6 @@ joinhoney.com
 jwpltx.com
 kargo.com
 kueezrtb.com
-lgsmartad.com
 liadm.com
 liftoff-creatives.io
 liftoff.io
@@ -159,6 +162,7 @@ permutive.app
 permutive.com
 postrelease.com
 presage.io
+prodregistryv2.org
 pubmatic.com
 pubnative.net
 quantcount.com
@@ -201,8 +205,8 @@ stripchat.com
 supersonicads.com
 taboola.com
 tapad.com
-tapjoy.com
 teads.tv
+tealiumiq.com
 tiqcdn.com
 tradplusad.com
 trafficjunky.net
@@ -214,7 +218,6 @@ tynt.com
 undertone.com
 unrulymedia.com
 urbanairship.com
-vidoomy.com
 vungle.com
 w55c.net
 wpadmngr.com
@@ -224,3 +227,4 @@ yellowblue.io
 yieldmo.com
 youboranqs01.com
 zemanta.com
+zog.link
