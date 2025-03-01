@@ -50,6 +50,7 @@ branch.io
 braze.com
 braze.eu
 browser-intake-datadoghq.com
+browsiprod.com
 btloader.com
 bttrack.com
 casalemedia.com
@@ -69,7 +70,6 @@ contextweb.com
 conviva.com
 cootlogix.com
 crashlytics.com
-crazyegg.com
 creativecdn.com
 criteo.com
 criteo.net
@@ -80,10 +80,7 @@ demdex.net
 dotomi.com
 doubleclick.net
 doubleverify.com
-dtscout.com
-dutils.com
 e-planning.net
-emxdgt.com
 eu-1-id5-sync.com
 eum-appdynamics.com
 everesttech.net
@@ -101,6 +98,7 @@ fyber.com
 gameanalytics.com
 geoedge.be
 go-mpulse.net
+godkc.com
 google-analytics.com
 googleadservices.com
 googlesyndication.com
@@ -109,7 +107,6 @@ googletagservices.com
 gumgum.com
 gvt2.com
 hotjar.com
-hotjar.io
 id5-sync.com
 im-apps.net
 imrworldwide.com
@@ -125,6 +122,7 @@ joinhoney.com
 jwpltx.com
 kargo.com
 kueezrtb.com
+lgsmartad.com
 liadm.com
 liftoff-creatives.io
 liftoff.io
@@ -184,7 +182,6 @@ seedtag.com
 segment.com
 segment.io
 sentry.io
-servenobid.com
 shalltry.com
 sharethrough.com
 simpli.fi
@@ -206,7 +203,6 @@ supersonicads.com
 taboola.com
 tapad.com
 teads.tv
-tealiumiq.com
 tiqcdn.com
 tradplusad.com
 trafficjunky.net
