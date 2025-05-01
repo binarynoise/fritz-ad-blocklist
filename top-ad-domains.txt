@@ -25,11 +25,11 @@ adscale.de
 adsco.re
 adsmoloco.com
 adsrvr.org
-adtarget.com.tr
 adtelligent.com
 adtng.com
 adtrafficquality.google
 agkn.com
+akstat.io
 alphonso.tv
 amazon-adsystem.com
 amplitude.com
@@ -55,6 +55,7 @@ btloader.com
 bttrack.com
 casalemedia.com
 cedexis-radar.net
+cedexis.com
 chartbeat.com
 chartbeat.net
 chartboost.com
@@ -79,7 +80,6 @@ demdex.net
 dotomi.com
 doubleclick.net
 doubleverify.com
-e-planning.net
 eskimi.com
 eu-1-id5-sync.com
 eum-appdynamics.com
@@ -87,6 +87,7 @@ everesttech.net
 evergage.com
 exelator.com
 eyeota.net
+fastclick.net
 featureassets.org
 flashtalking.com
 footprintdns.com
@@ -138,7 +139,6 @@ mgid.com
 mintegral.net
 mixpanel.com
 mmstat.com
-moengage.com
 mookie1.com
 mosspf.com
 mossru.com
@@ -153,6 +153,7 @@ openx.net
 optimizely.com
 orbsrv.com
 outbrain.com
+pangle-b.io
 pangle.io
 parsely.com
 permutive.app
@@ -172,6 +173,7 @@ richaudience.com
 rlcdn.com
 rtmark.net
 rubiconproject.com
+sacdnssedge.com
 samba.tv
 samsungacr.com
 sc-static.net
@@ -217,7 +219,6 @@ unrulymedia.com
 urbanairship.com
 vungle.com
 w55c.net
-wuporg.com
 xlivrdr.com
 yandexadexchange.net
 yellowblue.io
