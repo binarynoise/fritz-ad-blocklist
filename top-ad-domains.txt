@@ -21,10 +21,10 @@ adroll.com
 adrta.com
 ads-twitter.com
 adsafeprotected.com
-adscale.de
 adsco.re
 adsmoloco.com
 adsrvr.org
+adswizz.com
 adtelligent.com
 adtng.com
 adtrafficquality.google
@@ -33,7 +33,6 @@ akstat.io
 alphonso.tv
 amazon-adsystem.com
 amplitude.com
-amung.us
 aniview.com
 app-analytics-services.com
 app-measurement.com
@@ -41,6 +40,7 @@ appier.net
 applovin.com
 applvn.com
 appsflyer.com
+ay.delivery
 betweendigital.com
 bfmio.com
 bidr.io
@@ -48,9 +48,11 @@ bidswitch.net
 blcdog.com
 bounceexchange.com
 branch.io
+brandmetrics.com
 braze.com
 braze.eu
 browser-intake-datadoghq.com
+browsiprod.com
 btloader.com
 bttrack.com
 casalemedia.com
@@ -63,6 +65,7 @@ clarity.ms
 clevertap-prod.com
 cloudflareinsights.com
 company-target.com
+confiant-integrations.net
 connatix.com
 connectad.io
 contentsquare.net
@@ -70,6 +73,7 @@ contextweb.com
 conviva.com
 cootlogix.com
 crashlytics.com
+crazyegg.com
 creativecdn.com
 criteo.com
 criteo.net
@@ -105,6 +109,7 @@ googletagmanager.com
 googletagservices.com
 gumgum.com
 gvt2.com
+hadronid.net
 hotjar.com
 hotjar.io
 id5-sync.com
@@ -118,11 +123,10 @@ inner-active.mobi
 innovid.com
 intentiq.com
 ipredictive.com
-joinhoney.com
 jwpltx.com
 kargo.com
+kochava.com
 kueezrtb.com
-lgsmartad.com
 liadm.com
 liftoff-creatives.io
 liftoff.io
@@ -134,16 +138,18 @@ mathtag.com
 media.net
 mediago.io
 mediavine.com
+merchant-center-analytics.goog
 mfadsrvr.com
 mgid.com
-mintegral.net
 mixpanel.com
 mmstat.com
+mobilefuse.com
 mookie1.com
 mosspf.com
 mossru.com
 mparticle.com
 mtgglobals.com
+mythad.com
 nr-data.net
 omnitagjs.com
 omtrdc.net
@@ -160,7 +166,6 @@ permutive.app
 permutive.com
 postrelease.com
 presage.io
-prodregistryv2.org
 pubmatic.com
 pubnative.net
 quantcount.com
@@ -174,7 +179,6 @@ rlcdn.com
 rtmark.net
 rubiconproject.com
 sacdnssedge.com
-samba.tv
 samsungacr.com
 sc-static.net
 scorecardresearch.com
@@ -213,6 +217,7 @@ tribalfusion.com
 tsyndicate.com
 turn.com
 tynt.com
+uidapi.com
 umeng.com
 undertone.com
 unrulymedia.com
@@ -223,5 +228,4 @@ xlivrdr.com
 yandexadexchange.net
 yellowblue.io
 yieldmo.com
-youboranqs01.com
 zemanta.com
