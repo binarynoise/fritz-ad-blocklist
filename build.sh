@@ -2,6 +2,7 @@
 
 set -euo pipefail
 
+# shellcheck disable=SC1091
 [[ -f .env ]] && source .env
 
 if [[ -z $CLOUDFLARE_TOKEN ]]; then
@@ -11,7 +12,7 @@ fi
 
 mkdir -p out
 
-curl -Ssf -H "Authorization: Bearer $CLOUDFLARE_TOKEN" https://api.cloudflare.com/client/v4/radar/datasets/ranking_top_1000 | sort > out/top-1000.txt
-curl -Ssf 'https://hblock.molinero.dev/hosts_domains.txt' | sort > out/hblock.txt
+curl -Ssf -H "Authorization: Bearer $CLOUDFLARE_TOKEN" https://api.cloudflare.com/client/v4/radar/datasets/ranking_top_10000 | sort >out/top.txt
+curl -Ssf 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=plaintext&mimetype=plaintext' | sort >out/ad-domains.txt
 
-comm -12 out/top-1000.txt out/hblock.txt >out/top-ad-domains.txt
+comm -12 out/top.txt out/ad-domains.txt >out/top-ad-domains.txt
