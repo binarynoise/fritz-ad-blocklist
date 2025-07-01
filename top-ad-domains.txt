@@ -43,10 +43,8 @@ adskeeper.co.uk
 adskeeper.com
 adspsp.com
 adsrvr.org
-adstanding.com
 adswizz.com
 adthrive.com
-adtilt.com
 adtng.com
 advertising.com
 adview.com
@@ -91,8 +89,6 @@ clickcease.com
 clickonometrics.pl
 clientgear.com
 cloudflareinsights.com
-clustrmaps.com
-conductrics.com
 connatix.com
 connectad.io
 connextra.com
@@ -136,6 +132,7 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
+flairadscpc.com
 flashtalking.com
 flurry.com
 foresee.com
@@ -143,7 +140,6 @@ fpjs.io
 fullstory.com
 getclicky.com
 go-mpulse.net
-go2affise.com
 google-analytics.com
 googleadservices.com
 googlesyndication.com
@@ -168,7 +164,6 @@ inmobi.com
 innovid.com
 insightexpressai.com
 inspectlet.com
-intelligenceadx.com
 intergi.com
 ioam.de
 iperceptions.com
@@ -192,6 +187,7 @@ linksynergy.com
 linkvertise.com
 litix.io
 liveintent.com
+loopme.com
 luckyorange.com
 lytics.io
 m6r.eu
@@ -202,6 +198,7 @@ mathtag.com
 media.net
 media6degrees.com
 mediaplex.com
+mediasmart.io
 mediavine.com
 merequartz.com
 mfadsrvr.com
@@ -227,6 +224,7 @@ ntv.io
 ojrq.net
 omtrdc.net
 onaudience.com
+onclickads.net
 online-metrix.net
 onthe.io
 openx.net
@@ -248,7 +246,6 @@ prf.hn
 pro-market.net
 pstmrk.it
 pub.network
-pubmine.com
 pubnative.net
 pushengage.com
 pxf.io
@@ -290,7 +287,6 @@ statcounter.com
 steelhousemedia.com
 stickyadstv.com
 storygize.net
-sumome.com
 superawesome.tv
 supersonicads.com
 t.co
@@ -307,7 +303,6 @@ theadex.com
 themoneytizer.com
 tidaltv.com
 tns-counter.ru
-trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
@@ -330,15 +325,12 @@ wdfl.co
 webcontentassessor.com
 weborama.fr
 wisepops.com
-wt-eu02.net
-xad.com
 xg4ken.com
 xiti.com
 yadro.ru
 yieldlab.net
 yieldmo.com
 yieldoptimizer.com
-ymetrica1.com
 youradexchange.com
 zdbb.net
 zemanta.com
