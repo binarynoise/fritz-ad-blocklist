@@ -22,7 +22,6 @@ adjust.com
 adlightning.com
 adlooxtracking.com
 admanmedia.com
-admantx.com
 admixer.net
 admob.com
 adnami.io
@@ -43,11 +42,11 @@ adskeeper.co.uk
 adskeeper.com
 adspsp.com
 adsrvr.org
+adstanding.com
 adswizz.com
 adthrive.com
 adtng.com
 advertising.com
-adview.com
 adzerk.net
 affec.tv
 agkn.com
@@ -154,6 +153,7 @@ hsadspixel.net
 hsleadflows.net
 htlbid.com
 hubspotlinks.com
+hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -168,6 +168,7 @@ intergi.com
 ioam.de
 iperceptions.com
 ipredictive.com
+ipstack.com
 jads.co
 jsrdn.com
 juicyads.com
@@ -187,9 +188,7 @@ linksynergy.com
 linkvertise.com
 litix.io
 liveintent.com
-loopme.com
 luckyorange.com
-lytics.io
 m6r.eu
 magsrv.com
 marketo.com
@@ -198,7 +197,6 @@ mathtag.com
 media.net
 media6degrees.com
 mediaplex.com
-mediasmart.io
 mediavine.com
 merequartz.com
 mfadsrvr.com
@@ -242,6 +240,7 @@ placed.com
 plista.com
 popcash.net
 postrelease.com
+prebid.org
 prf.hn
 pro-market.net
 pstmrk.it
@@ -303,6 +302,7 @@ theadex.com
 themoneytizer.com
 tidaltv.com
 tns-counter.ru
+trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
@@ -315,6 +315,7 @@ tubemogul.com
 turn.com
 tynt.com
 undertone.com
+unruly.co
 unrulymedia.com
 valuecommerce.com
 viglink.com
@@ -331,7 +332,6 @@ yadro.ru
 yieldlab.net
 yieldmo.com
 yieldoptimizer.com
-youradexchange.com
 zdbb.net
 zemanta.com
 zqtk.net
