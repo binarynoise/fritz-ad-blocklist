@@ -6,7 +6,6 @@
 3lift.com
 6sc.co
 a-ads.com
-aaxads.com
 abtasty.com
 acuityplatform.com
 ad-delivery.net
@@ -42,11 +41,11 @@ adskeeper.co.uk
 adskeeper.com
 adspsp.com
 adsrvr.org
-adstanding.com
 adswizz.com
 adthrive.com
 adtng.com
 advertising.com
+adview.com
 adzerk.net
 affec.tv
 agkn.com
@@ -88,6 +87,7 @@ clickcease.com
 clickonometrics.pl
 clientgear.com
 cloudflareinsights.com
+conductrics.com
 connatix.com
 connectad.io
 connextra.com
@@ -131,7 +131,6 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
-flairadscpc.com
 flashtalking.com
 flurry.com
 foresee.com
@@ -201,6 +200,7 @@ mediavine.com
 merequartz.com
 mfadsrvr.com
 mgid.com
+mineinvoice.com
 mintegral.com
 mixpanel.com
 mktoresp.com
@@ -240,7 +240,6 @@ placed.com
 plista.com
 popcash.net
 postrelease.com
-prebid.org
 prf.hn
 pro-market.net
 pstmrk.it
@@ -265,9 +264,9 @@ samsungacr.com
 samsungads.com
 scorecardresearch.com
 seadform.net
+sedoparking.com
 semasio.net
 servedbyadbutler.com
-shareasale.com
 sharethrough.com
 silvermob.com
 simpli.fi
@@ -291,7 +290,6 @@ supersonicads.com
 t.co
 taboola.com
 tagcommander.com
-tamgrt.com
 tapad.com
 tapjoy.com
 tappx.com
@@ -299,7 +297,6 @@ teads.tv
 tealiumiq.com
 the-ozone-project.com
 theadex.com
-themoneytizer.com
 tidaltv.com
 tns-counter.ru
 trackedweb.net
@@ -318,6 +315,7 @@ undertone.com
 unruly.co
 unrulymedia.com
 valuecommerce.com
+vertamedia.com
 viglink.com
 visiblemeasures.com
 vungle.com
