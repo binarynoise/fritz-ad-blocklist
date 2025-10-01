@@ -6,7 +6,10 @@
 3lift.com
 6sc.co
 a-ads.com
+aaxads.com
 abtasty.com
+acebunny.com
+acobt.tech
 acuityplatform.com
 ad-delivery.net
 ad-score.com
@@ -45,7 +48,6 @@ adswizz.com
 adthrive.com
 adtng.com
 advertising.com
-adview.com
 adzerk.net
 affec.tv
 agkn.com
@@ -87,7 +89,6 @@ clickcease.com
 clickonometrics.pl
 clientgear.com
 cloudflareinsights.com
-conductrics.com
 connatix.com
 connectad.io
 connextra.com
@@ -120,7 +121,6 @@ emltrk.com
 ensighten.com
 eqads.com
 erne.co
-estat.com
 etahub.com
 everesttech.net
 evergage.com
@@ -149,10 +149,8 @@ hotjar.com
 hs-analytics.net
 hs-banner.com
 hsadspixel.net
-hsleadflows.net
 htlbid.com
 hubspotlinks.com
-hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -175,8 +173,11 @@ juicyads.me
 justpremium.com
 kameleoon.eu
 kargo.com
+kickoffo.site
 klclick.com
 klclick1.com
+lazybumblebee.com
+leadinfo.net
 lemmatechnologies.com
 lfeeder.com
 lfstmedia.com
@@ -188,8 +189,10 @@ linkvertise.com
 litix.io
 liveintent.com
 luckyorange.com
+lytics.io
 m6r.eu
 magsrv.com
+marketingcloudapis.com
 marketo.com
 matheranalytics.com
 mathtag.com
@@ -200,7 +203,6 @@ mediavine.com
 merequartz.com
 mfadsrvr.com
 mgid.com
-mineinvoice.com
 mintegral.com
 mixpanel.com
 mktoresp.com
@@ -208,13 +210,13 @@ ml314.com
 mlsend.com
 mmstat.com
 moatads.com
-mobfox.com
 mobilefuse.com
 monetate.net
 mookie1.com
 mopub.com
 mparticle.com
 mxptint.net
+news-cdn.site
 npttech.com
 nr-data.net
 ns1p.net
@@ -223,6 +225,7 @@ ojrq.net
 omtrdc.net
 onaudience.com
 onclickads.net
+onegg.site
 online-metrix.net
 onthe.io
 openx.net
@@ -247,6 +250,7 @@ pub.network
 pubnative.net
 pushengage.com
 pxf.io
+qa-analytics.com
 quantcount.com
 quantserve.com
 quantummetric.com
@@ -264,11 +268,9 @@ samsungacr.com
 samsungads.com
 scorecardresearch.com
 seadform.net
-sedoparking.com
 semasio.net
 servedbyadbutler.com
 sharethrough.com
-silvermob.com
 simpli.fi
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -285,6 +287,7 @@ statcounter.com
 steelhousemedia.com
 stickyadstv.com
 storygize.net
+sumome.com
 superawesome.tv
 supersonicads.com
 t.co
@@ -299,7 +302,6 @@ the-ozone-project.com
 theadex.com
 tidaltv.com
 tns-counter.ru
-trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
