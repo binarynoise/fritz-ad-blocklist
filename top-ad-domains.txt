@@ -6,13 +6,13 @@
 3lift.com
 6sc.co
 a-ads.com
+aaxads.com
 abtasty.com
 acobt.tech
 acuityplatform.com
 ad-delivery.net
 ad-score.com
 ad.gt
-adcolony.com
 adform.net
 adhaven.com
 adhigh.net
@@ -21,7 +21,6 @@ adition.com
 adjust.com
 adlightning.com
 admanmedia.com
-admeridianads.com
 admixer.net
 admob.com
 adnami.io
@@ -44,9 +43,7 @@ adswizz.com
 adthrive.com
 adtng.com
 advertising.com
-advertserve.com
 adzerk.net
-adzestocp.com
 affec.tv
 agkn.com
 alphonso.tv
@@ -57,6 +54,7 @@ app-measurement.com
 appboycdn.com
 appsflyer.com
 aralego.com
+askdriver.com
 aswpsdkus.com
 at-o.net
 awin1.com
@@ -83,9 +81,11 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 clickcease.com
+clickonometrics.pl
 clientgear.com
 cloudflareinsights.com
 clustrmaps.com
+confiant-integrations.net
 connatix.com
 connectad.io
 connextra.com
@@ -108,7 +108,6 @@ dianomi.com
 displayvertising.com
 dotmetrics.net
 dotomi.com
-doubleclick.com
 doubleclick.net
 doubleverify.com
 dstillery.com
@@ -126,8 +125,6 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
-fixedfold.com
-flairadscpc.com
 flashtalking.com
 flurry.com
 foresee.com
@@ -141,13 +138,13 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 growthrx.in
+gscontxt.net
 histats.com
 hotjar.com
 hs-analytics.net
 hs-banner.com
 hsadspixel.net
 htlbid.com
-hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -168,7 +165,9 @@ kameleoon.eu
 kargo.com
 kickoffo.site
 klclick.com
+kueezrtb.com
 lazybumblebee.com
+leadinfo.net
 lfeeder.com
 lgsmartad.com
 liadm.com
@@ -179,15 +178,14 @@ litix.io
 liveintent.com
 luckyorange.com
 lytics.io
+m6r.eu
 marketingcloudapis.com
 marketo.com
 mathtag.com
 media.net
 media6degrees.com
 mediaplex.com
-mediasmart.io
 mediavine.com
-merequartz.com
 mfadsrvr.com
 mgid.com
 mintegral.com
@@ -209,6 +207,7 @@ ntv.io
 ojrq.net
 omtrdc.net
 onaudience.com
+onclickads.net
 onegg.site
 online-metrix.net
 onthe.io
@@ -218,9 +217,9 @@ orbsrv.com
 outbrain.com
 owneriq.net
 p-n.io
+p7cloud.net
 paa-reporting-advertising.amazon
 parsely.com
-partnerlinks.io
 permutive.com
 piano.io
 pippio.com
@@ -244,6 +243,7 @@ revcontent.com
 richaudience.com
 rlcdn.com
 rqtrk.eu
+rs6.net
 rtmark.net
 rubiconproject.com
 sail-horizon.com
@@ -251,7 +251,6 @@ samsungacr.com
 samsungads.com
 scorecardresearch.com
 seadform.net
-sedoparking.com
 semasio.net
 servedbyadbutler.com
 sharethrough.com
@@ -264,6 +263,7 @@ smartadserver.com
 smartclip.net
 smartlook.com
 smartyads.com
+smilewanted.com
 smrtb.com
 sonobi.com
 springserve.com
@@ -272,7 +272,6 @@ statcounter.com
 stickyadstv.com
 storygize.net
 sumome.com
-superawesome.tv
 supersonicads.com
 t.co
 taboola.com
@@ -286,14 +285,13 @@ the-ozone-project.com
 theadex.com
 themoneytizer.com
 tns-counter.ru
-trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
 tremorhub.com
 tribalfusion.com
+triptease.io
 trkn.us
-trustx.org
 tsyndicate.com
 tubemogul.com
 turn.com
@@ -307,6 +305,7 @@ viglink.com
 visiblemeasures.com
 vungle.com
 w55c.net
+wdfl.co
 webcontentassessor.com
 weborama.fr
 wisepops.com
