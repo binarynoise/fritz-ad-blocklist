@@ -6,7 +6,6 @@
 3lift.com
 6sc.co
 a-ads.com
-aaxads.com
 abtasty.com
 acobt.tech
 acuityplatform.com
@@ -20,6 +19,7 @@ adingo.jp
 adition.com
 adjust.com
 adlightning.com
+adlooxtracking.com
 admanmedia.com
 admixer.net
 admob.com
@@ -37,6 +37,7 @@ adscale.de
 adsco.re
 adsensecustomsearchads.com
 adskeeper.com
+adspsp.com
 adsrvr.org
 adstanding.com
 adswizz.com
@@ -44,6 +45,7 @@ adthrive.com
 adtng.com
 advertising.com
 adzerk.net
+adzestocp.com
 affec.tv
 agkn.com
 alphonso.tv
@@ -52,9 +54,9 @@ amung.us
 aniview.com
 app-measurement.com
 appboycdn.com
+applovin.com
 appsflyer.com
 aralego.com
-askdriver.com
 aswpsdkus.com
 at-o.net
 awin1.com
@@ -137,7 +139,6 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-growthrx.in
 gscontxt.net
 histats.com
 hotjar.com
@@ -145,6 +146,7 @@ hs-analytics.net
 hs-banner.com
 hsadspixel.net
 htlbid.com
+hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -152,6 +154,7 @@ imrworldwide.com
 indexww.com
 infolinks.com
 inmobi.com
+inner-active.mobi
 innovid.com
 insightexpressai.com
 inspectlet.com
@@ -178,7 +181,6 @@ litix.io
 liveintent.com
 luckyorange.com
 lytics.io
-m6r.eu
 marketingcloudapis.com
 marketo.com
 mathtag.com
@@ -207,7 +209,6 @@ ntv.io
 ojrq.net
 omtrdc.net
 onaudience.com
-onclickads.net
 onegg.site
 online-metrix.net
 onthe.io
@@ -237,7 +238,6 @@ pxf.io
 quantcount.com
 quantserve.com
 quantummetric.com
-rayjump.com
 realsrv.com
 revcontent.com
 richaudience.com
@@ -253,6 +253,7 @@ scorecardresearch.com
 seadform.net
 semasio.net
 servedbyadbutler.com
+shareasale.com
 sharethrough.com
 silvermob.com
 simpli.fi
@@ -272,6 +273,7 @@ statcounter.com
 stickyadstv.com
 storygize.net
 sumome.com
+superawesome.tv
 supersonicads.com
 t.co
 taboola.com
@@ -285,13 +287,16 @@ the-ozone-project.com
 theadex.com
 themoneytizer.com
 tns-counter.ru
+trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
 tremorhub.com
+trendmd.com
 tribalfusion.com
 triptease.io
 trkn.us
+trustx.org
 tsyndicate.com
 tubemogul.com
 turn.com
@@ -299,13 +304,11 @@ tynt.com
 undertone.com
 unruly.co
 unrulymedia.com
-valuecommerce.com
 vertamedia.com
 viglink.com
 visiblemeasures.com
 vungle.com
 w55c.net
-wdfl.co
 webcontentassessor.com
 weborama.fr
 wisepops.com
