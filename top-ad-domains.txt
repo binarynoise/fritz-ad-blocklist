@@ -6,6 +6,7 @@
 3lift.com
 6sc.co
 a-ads.com
+aaxads.com
 abtasty.com
 acobt.tech
 acuityplatform.com
@@ -29,6 +30,7 @@ adnxs.com
 adocean.pl
 adotmob.com
 adpushup.com
+adrecover.com
 adriver.ru
 adrta.com
 ads-twitter.com
@@ -37,7 +39,6 @@ adscale.de
 adsco.re
 adsensecustomsearchads.com
 adskeeper.com
-adspsp.com
 adsrvr.org
 adstanding.com
 adswizz.com
@@ -45,7 +46,6 @@ adthrive.com
 adtng.com
 advertising.com
 adzerk.net
-adzestocp.com
 affec.tv
 agkn.com
 alphonso.tv
@@ -57,6 +57,7 @@ appboycdn.com
 applovin.com
 appsflyer.com
 aralego.com
+aso1.net
 aswpsdkus.com
 at-o.net
 awin1.com
@@ -68,6 +69,7 @@ bfmio.com
 bidr.io
 bidswitch.net
 bizible.com
+blogherads.com
 blueconic.net
 boomtrain.com
 bounceexchange.com
@@ -75,7 +77,6 @@ brand-display.com
 braze.eu
 brealtime.com
 bttrack.com
-buysellads.com
 callrail.com
 casalemedia.com
 celtra.com
@@ -128,7 +129,6 @@ eyeota.net
 fastclick.net
 fastly-insights.com
 flashtalking.com
-flurry.com
 foresee.com
 fpjs.io
 fullstory.com
@@ -139,14 +139,13 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-gscontxt.net
+growthrx.in
 histats.com
 hotjar.com
 hs-analytics.net
 hs-banner.com
 hsadspixel.net
 htlbid.com
-hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -187,7 +186,9 @@ mathtag.com
 media.net
 media6degrees.com
 mediaplex.com
+mediasquare.fr
 mediavine.com
+merequartz.com
 mfadsrvr.com
 mgid.com
 mintegral.com
@@ -221,12 +222,12 @@ p-n.io
 p7cloud.net
 paa-reporting-advertising.amazon
 parsely.com
+partnerlinks.io
 permutive.com
 piano.io
 pippio.com
 placed.com
 plista.com
-pokkt.com
 popcash.net
 postrelease.com
 prf.hn
@@ -253,7 +254,6 @@ scorecardresearch.com
 seadform.net
 semasio.net
 servedbyadbutler.com
-shareasale.com
 sharethrough.com
 silvermob.com
 simpli.fi
@@ -309,6 +309,7 @@ viglink.com
 visiblemeasures.com
 vungle.com
 w55c.net
+wdfl.co
 webcontentassessor.com
 weborama.fr
 wisepops.com
