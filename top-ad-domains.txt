@@ -69,13 +69,11 @@ bfmio.com
 bidr.io
 bidswitch.net
 bizible.com
-blogherads.com
 blueconic.net
 boomtrain.com
 bounceexchange.com
 brand-display.com
 braze.eu
-brealtime.com
 bttrack.com
 callrail.com
 casalemedia.com
@@ -100,7 +98,6 @@ crashlytics.com
 crazyegg.com
 criteo.com
 criteo.net
-crsspxl.com
 crwdcntrl.net
 cxense.com
 de17a.com
@@ -128,6 +125,7 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
+flairadscpc.com
 flashtalking.com
 foresee.com
 fpjs.io
@@ -146,6 +144,7 @@ hs-analytics.net
 hs-banner.com
 hsadspixel.net
 htlbid.com
+hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -215,7 +214,6 @@ online-metrix.net
 onthe.io
 openx.net
 optimizely.com
-orbsrv.com
 outbrain.com
 owneriq.net
 p-n.io
@@ -287,12 +285,10 @@ the-ozone-project.com
 theadex.com
 themoneytizer.com
 tns-counter.ru
-trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
 tremorhub.com
-trendmd.com
 tribalfusion.com
 triptease.io
 trkn.us
@@ -304,7 +300,6 @@ tynt.com
 undertone.com
 unruly.co
 unrulymedia.com
-vertamedia.com
 viglink.com
 visiblemeasures.com
 vungle.com
@@ -317,6 +312,7 @@ wt-eu02.net
 xg4ken.com
 xiti.com
 yadro.ru
+yg5sjx5kzy.com
 yieldlab.net
 yieldmo.com
 yieldoptimizer.com
