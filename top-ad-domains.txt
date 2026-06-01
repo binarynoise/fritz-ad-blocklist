@@ -30,7 +30,6 @@ adnxs.com
 adocean.pl
 adotmob.com
 adpushup.com
-adrecover.com
 adriver.ru
 adrta.com
 ads-twitter.com
@@ -39,6 +38,7 @@ adscale.de
 adsco.re
 adsensecustomsearchads.com
 adskeeper.com
+adspsp.com
 adsrvr.org
 adstanding.com
 adswizz.com
@@ -85,7 +85,6 @@ clickcease.com
 clickonometrics.pl
 clientgear.com
 cloudflareinsights.com
-clustrmaps.com
 confiant-integrations.net
 connatix.com
 connectad.io
@@ -125,7 +124,6 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
-flairadscpc.com
 flashtalking.com
 foresee.com
 fpjs.io
@@ -137,14 +135,12 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-growthrx.in
 histats.com
 hotjar.com
 hs-analytics.net
 hs-banner.com
 hsadspixel.net
 htlbid.com
-hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -155,7 +151,7 @@ inmobi.com
 inner-active.mobi
 innovid.com
 insightexpressai.com
-inspectlet.com
+intergi.com
 iperceptions.com
 ipredictive.com
 ipstack.com
@@ -169,6 +165,7 @@ klclick.com
 kueezrtb.com
 lazybumblebee.com
 leadinfo.net
+lemmatechnologies.com
 lfeeder.com
 lgsmartad.com
 liadm.com
@@ -185,7 +182,6 @@ mathtag.com
 media.net
 media6degrees.com
 mediaplex.com
-mediasquare.fr
 mediavine.com
 merequartz.com
 mfadsrvr.com
@@ -214,13 +210,13 @@ online-metrix.net
 onthe.io
 openx.net
 optimizely.com
+orbsrv.com
 outbrain.com
 owneriq.net
 p-n.io
 p7cloud.net
 paa-reporting-advertising.amazon
 parsely.com
-partnerlinks.io
 permutive.com
 piano.io
 pippio.com
@@ -285,10 +281,12 @@ the-ozone-project.com
 theadex.com
 themoneytizer.com
 tns-counter.ru
+trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
 tremorhub.com
+trendmd.com
 tribalfusion.com
 triptease.io
 trkn.us
@@ -300,11 +298,12 @@ tynt.com
 undertone.com
 unruly.co
 unrulymedia.com
+valuecommerce.com
+vertamedia.com
 viglink.com
 visiblemeasures.com
 vungle.com
 w55c.net
-wdfl.co
 webcontentassessor.com
 weborama.fr
 wisepops.com
