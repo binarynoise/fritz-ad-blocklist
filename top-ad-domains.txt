@@ -14,7 +14,6 @@ ad-delivery.net
 ad-score.com
 ad.gt
 adform.net
-adhaven.com
 adhigh.net
 adingo.jp
 adition.com
@@ -38,13 +37,13 @@ adscale.de
 adsco.re
 adsensecustomsearchads.com
 adskeeper.com
-adspsp.com
 adsrvr.org
 adstanding.com
 adswizz.com
 adthrive.com
 adtng.com
 advertising.com
+adview.com
 adzerk.net
 affec.tv
 agkn.com
@@ -57,7 +56,6 @@ appboycdn.com
 applovin.com
 appsflyer.com
 aralego.com
-aso1.net
 aswpsdkus.com
 at-o.net
 awin1.com
@@ -124,23 +122,27 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
+flairadscpc.com
 flashtalking.com
 foresee.com
 fpjs.io
 fullstory.com
 getclicky.com
 go-mpulse.net
+go2cloud.org
 google-analytics.com
 googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
+growthrx.in
 histats.com
 hotjar.com
 hs-analytics.net
 hs-banner.com
 hsadspixel.net
 htlbid.com
+hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -165,7 +167,6 @@ klclick.com
 kueezrtb.com
 lazybumblebee.com
 leadinfo.net
-lemmatechnologies.com
 lfeeder.com
 lgsmartad.com
 liadm.com
@@ -178,6 +179,7 @@ luckyorange.com
 lytics.io
 marketingcloudapis.com
 marketo.com
+matheranalytics.com
 mathtag.com
 media.net
 media6degrees.com
@@ -197,6 +199,7 @@ mookie1.com
 mopub.com
 mparticle.com
 mxptint.net
+netmera.com
 news-cdn.site
 npttech.com
 nr-data.net
@@ -212,7 +215,6 @@ openx.net
 optimizely.com
 orbsrv.com
 outbrain.com
-owneriq.net
 p-n.io
 p7cloud.net
 paa-reporting-advertising.amazon
@@ -238,7 +240,6 @@ revcontent.com
 richaudience.com
 rlcdn.com
 rqtrk.eu
-rs6.net
 rtmark.net
 rubiconproject.com
 sail-horizon.com
@@ -246,6 +247,7 @@ samsungacr.com
 samsungads.com
 scorecardresearch.com
 seadform.net
+securityannex.net
 semasio.net
 servedbyadbutler.com
 sharethrough.com
@@ -257,7 +259,6 @@ skimresources.com
 smartadserver.com
 smartclip.net
 smartlook.com
-smartyads.com
 smilewanted.com
 smrtb.com
 sonobi.com
