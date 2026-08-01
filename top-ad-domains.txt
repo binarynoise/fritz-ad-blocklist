@@ -37,13 +37,13 @@ adscale.de
 adsco.re
 adsensecustomsearchads.com
 adskeeper.com
+adsolut.in
 adsrvr.org
 adstanding.com
 adswizz.com
 adthrive.com
 adtng.com
 advertising.com
-adview.com
 adzerk.net
 affec.tv
 agkn.com
@@ -80,9 +80,9 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 clickcease.com
-clickonometrics.pl
 clientgear.com
 cloudflareinsights.com
+clustrmaps.com
 confiant-integrations.net
 connatix.com
 connectad.io
@@ -122,7 +122,6 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
-flairadscpc.com
 flashtalking.com
 foresee.com
 fpjs.io
@@ -142,7 +141,6 @@ hs-analytics.net
 hs-banner.com
 hsadspixel.net
 htlbid.com
-hueadsxml.com
 hyprmx.com
 id5-sync.com
 iesnare.com
@@ -159,7 +157,6 @@ ipredictive.com
 ipstack.com
 jads.co
 juicyads.com
-juicyads.me
 kameleoon.eu
 kargo.com
 kickoffo.site
@@ -184,6 +181,7 @@ mathtag.com
 media.net
 media6degrees.com
 mediaplex.com
+mediasquare.fr
 mediavine.com
 merequartz.com
 mfadsrvr.com
@@ -199,7 +197,6 @@ mookie1.com
 mopub.com
 mparticle.com
 mxptint.net
-netmera.com
 news-cdn.site
 npttech.com
 nr-data.net
@@ -226,6 +223,7 @@ placed.com
 plista.com
 popcash.net
 postrelease.com
+prebid.org
 prf.hn
 pro-market.net
 pub.network
@@ -247,7 +245,6 @@ samsungacr.com
 samsungads.com
 scorecardresearch.com
 seadform.net
-securityannex.net
 semasio.net
 servedbyadbutler.com
 sharethrough.com
@@ -267,7 +264,6 @@ stackadapt.com
 statcounter.com
 stickyadstv.com
 storygize.net
-sumome.com
 superawesome.tv
 supersonicads.com
 t.co
@@ -282,7 +278,6 @@ the-ozone-project.com
 theadex.com
 themoneytizer.com
 tns-counter.ru
-trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
@@ -299,7 +294,6 @@ tynt.com
 undertone.com
 unruly.co
 unrulymedia.com
-valuecommerce.com
 vertamedia.com
 viglink.com
 visiblemeasures.com
@@ -318,4 +312,3 @@ yieldmo.com
 yieldoptimizer.com
 zdbb.net
 zemanta.com
-zqtk.net
