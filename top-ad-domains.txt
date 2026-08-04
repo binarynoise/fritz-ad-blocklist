@@ -8,7 +8,6 @@
 a-ads.com
 aaxads.com
 abtasty.com
-acobt.tech
 acuityplatform.com
 ad-delivery.net
 ad-score.com
@@ -67,6 +66,7 @@ bfmio.com
 bidr.io
 bidswitch.net
 bizible.com
+bizrate.com
 blueconic.net
 boomtrain.com
 bounceexchange.com
@@ -82,7 +82,6 @@ chartboost.com
 clickcease.com
 clientgear.com
 cloudflareinsights.com
-clustrmaps.com
 confiant-integrations.net
 connatix.com
 connectad.io
@@ -122,6 +121,7 @@ exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
+flairadscpc.com
 flashtalking.com
 foresee.com
 fpjs.io
@@ -181,7 +181,6 @@ mathtag.com
 media.net
 media6degrees.com
 mediaplex.com
-mediasquare.fr
 mediavine.com
 merequartz.com
 mfadsrvr.com
@@ -205,7 +204,6 @@ ntv.io
 ojrq.net
 omtrdc.net
 onaudience.com
-onegg.site
 online-metrix.net
 onthe.io
 openx.net
@@ -223,7 +221,6 @@ placed.com
 plista.com
 popcash.net
 postrelease.com
-prebid.org
 prf.hn
 pro-market.net
 pub.network
@@ -244,7 +241,7 @@ sail-horizon.com
 samsungacr.com
 samsungads.com
 scorecardresearch.com
-seadform.net
+securityannex.net
 semasio.net
 servedbyadbutler.com
 sharethrough.com
@@ -256,6 +253,7 @@ skimresources.com
 smartadserver.com
 smartclip.net
 smartlook.com
+smartyads.com
 smilewanted.com
 smrtb.com
 sonobi.com
@@ -264,6 +262,7 @@ stackadapt.com
 statcounter.com
 stickyadstv.com
 storygize.net
+sumome.com
 superawesome.tv
 supersonicads.com
 t.co
@@ -275,8 +274,6 @@ tappx.com
 teads.tv
 tealiumiq.com
 the-ozone-project.com
-theadex.com
-themoneytizer.com
 tns-counter.ru
 tradedoubler.com
 trafficjunky.net
