@@ -4,6 +4,7 @@
 33across.com
 360yield.com
 3lift.com
+51.la
 6sc.co
 a-ads.com
 aaxads.com
@@ -20,6 +21,8 @@ adjust.com
 adlightning.com
 adlooxtracking.com
 admanmedia.com
+admaster.cc
+admeridianads.com
 admixer.net
 admob.com
 adnami.io
@@ -36,7 +39,6 @@ adscale.de
 adsco.re
 adsensecustomsearchads.com
 adskeeper.com
-adsolut.in
 adsrvr.org
 adstanding.com
 adswizz.com
@@ -46,6 +48,7 @@ advertising.com
 adzerk.net
 affec.tv
 agkn.com
+akstat.io
 alphonso.tv
 amazon-adsystem.com
 amung.us
@@ -65,8 +68,6 @@ ayads.co
 bfmio.com
 bidr.io
 bidswitch.net
-bizible.com
-bizrate.com
 blueconic.net
 boomtrain.com
 bounceexchange.com
@@ -82,6 +83,7 @@ chartboost.com
 clickcease.com
 clientgear.com
 cloudflareinsights.com
+clustrmaps.com
 confiant-integrations.net
 connatix.com
 connectad.io
@@ -116,12 +118,10 @@ everesttech.net
 evergage.com
 exelator.com
 exoclick.com
-exosrv.com
 exponea.com
 eyeota.net
 fastclick.net
 fastly-insights.com
-flairadscpc.com
 flashtalking.com
 foresee.com
 fpjs.io
@@ -134,7 +134,6 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-growthrx.in
 histats.com
 hotjar.com
 hs-analytics.net
@@ -162,7 +161,6 @@ kargo.com
 kickoffo.site
 klclick.com
 kueezrtb.com
-lazybumblebee.com
 leadinfo.net
 lfeeder.com
 lgsmartad.com
@@ -235,6 +233,7 @@ revcontent.com
 richaudience.com
 rlcdn.com
 rqtrk.eu
+rs6.net
 rtmark.net
 rubiconproject.com
 sail-horizon.com
@@ -253,7 +252,6 @@ skimresources.com
 smartadserver.com
 smartclip.net
 smartlook.com
-smartyads.com
 smilewanted.com
 smrtb.com
 sonobi.com
@@ -262,7 +260,6 @@ stackadapt.com
 statcounter.com
 stickyadstv.com
 storygize.net
-sumome.com
 superawesome.tv
 supersonicads.com
 t.co
@@ -274,7 +271,9 @@ tappx.com
 teads.tv
 tealiumiq.com
 the-ozone-project.com
+themoneytizer.com
 tns-counter.ru
+trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
@@ -291,6 +290,7 @@ tynt.com
 undertone.com
 unruly.co
 unrulymedia.com
+valuecommerce.com
 vertamedia.com
 viglink.com
 visiblemeasures.com
@@ -298,8 +298,7 @@ vungle.com
 w55c.net
 webcontentassessor.com
 weborama.fr
-wisepops.com
-wt-eu02.net
+xdrig.com
 xg4ken.com
 xiti.com
 yadro.ru
