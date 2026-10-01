@@ -4,6 +4,7 @@
 33across.com
 360yield.com
 3lift.com
+4dex.io
 51.la
 6sc.co
 a-ads.com
@@ -22,7 +23,6 @@ adlightning.com
 adlooxtracking.com
 admanmedia.com
 admaster.cc
-admeridianads.com
 admixer.net
 admob.com
 adnami.io
@@ -64,10 +64,11 @@ awin1.com
 awstrack.me
 axonix.com
 ay.delivery
-ayads.co
 bfmio.com
 bidr.io
 bidswitch.net
+bizible.com
+bizrate.com
 blueconic.net
 boomtrain.com
 bounceexchange.com
@@ -83,7 +84,6 @@ chartboost.com
 clickcease.com
 clientgear.com
 cloudflareinsights.com
-clustrmaps.com
 confiant-integrations.net
 connatix.com
 connectad.io
@@ -96,6 +96,7 @@ crashlytics.com
 crazyegg.com
 criteo.com
 criteo.net
+crsspxl.com
 crwdcntrl.net
 cxense.com
 de17a.com
@@ -123,7 +124,6 @@ eyeota.net
 fastclick.net
 fastly-insights.com
 flashtalking.com
-foresee.com
 fpjs.io
 fullstory.com
 getclicky.com
@@ -161,7 +161,9 @@ kargo.com
 kickoffo.site
 klclick.com
 kueezrtb.com
+lazybumblebee.com
 leadinfo.net
+lemmatechnologies.com
 lfeeder.com
 lgsmartad.com
 liadm.com
@@ -174,7 +176,6 @@ luckyorange.com
 lytics.io
 marketingcloudapis.com
 marketo.com
-matheranalytics.com
 mathtag.com
 media.net
 media6degrees.com
@@ -205,6 +206,7 @@ onaudience.com
 online-metrix.net
 onthe.io
 openx.net
+opoxv.com
 optimizely.com
 orbsrv.com
 outbrain.com
@@ -212,11 +214,13 @@ p-n.io
 p7cloud.net
 paa-reporting-advertising.amazon
 parsely.com
+pemsrv.com
 permutive.com
 piano.io
 pippio.com
 placed.com
 plista.com
+pokkt.com
 popcash.net
 postrelease.com
 prf.hn
@@ -251,7 +255,6 @@ siteimproveanalytics.io
 skimresources.com
 smartadserver.com
 smartclip.net
-smartlook.com
 smilewanted.com
 smrtb.com
 sonobi.com
@@ -271,9 +274,7 @@ tappx.com
 teads.tv
 tealiumiq.com
 the-ozone-project.com
-themoneytizer.com
 tns-counter.ru
-trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
@@ -290,7 +291,6 @@ tynt.com
 undertone.com
 unruly.co
 unrulymedia.com
-valuecommerce.com
 vertamedia.com
 viglink.com
 visiblemeasures.com
