@@ -64,11 +64,10 @@ awin1.com
 awstrack.me
 axonix.com
 ay.delivery
+ayads.co
 bfmio.com
 bidr.io
 bidswitch.net
-bizible.com
-bizrate.com
 blueconic.net
 boomtrain.com
 bounceexchange.com
@@ -96,7 +95,6 @@ crashlytics.com
 crazyegg.com
 criteo.com
 criteo.net
-crsspxl.com
 crwdcntrl.net
 cxense.com
 de17a.com
@@ -122,7 +120,6 @@ exoclick.com
 exponea.com
 eyeota.net
 fastclick.net
-fastly-insights.com
 flashtalking.com
 fpjs.io
 fullstory.com
@@ -176,6 +173,7 @@ luckyorange.com
 lytics.io
 marketingcloudapis.com
 marketo.com
+matheranalytics.com
 mathtag.com
 media.net
 media6degrees.com
@@ -220,14 +218,13 @@ piano.io
 pippio.com
 placed.com
 plista.com
-pokkt.com
 popcash.net
 postrelease.com
 prf.hn
 pro-market.net
 pub.network
 pubnative.net
-pushengage.com
+pushub.net
 pxf.io
 quantcount.com
 quantserve.com
@@ -275,6 +272,7 @@ teads.tv
 tealiumiq.com
 the-ozone-project.com
 tns-counter.ru
+trackedweb.net
 tradedoubler.com
 trafficjunky.net
 treasuredata.com
